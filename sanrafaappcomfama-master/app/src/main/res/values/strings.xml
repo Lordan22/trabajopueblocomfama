@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hoteles en SanRafa</string>
+    <string name="descripcionhomehoteles">En nuestro pueblo encontrara alojamientos desde 35000 COP
+        hasta lujosas cabañas dotadas de todos los elementos para promover un descanso restauradordor. Visitanos</string>
+    <string name="historiapueblo">Historia del pueblecito</string>
+    <string name="textohistoria">El municipio de San Rafael fue fundado el 5 de agosto de 1864 por mineros que venían de las comarcas paisas de Santa Rosa de Osos y San Carlos atraídos por la abundancia de oro en el lugar. A la naciente población se le conoció primero con el nombre de La Cuchilla. </string>
+    <string name="botonhomehoteles">Ver Hoteles</string>
+    <string name="titulorestaurantes">Nuestros restaurantes</string>
+    <string name="descripcionrestaurantes">En San Rafael, contamos con numerosos restaurantes que reviven la esencia de la gastronomia de la zona, contando con varios platos que te deleitaran el paladar</string>
+    <string name="sitiostit">Sitios turisticos</string>
+    <string name="sitiosdesc">En San Rafael tenemos maravillas paradisiacas: quebradas, cascadas y demas sitios con una belleza esmeralda. </string>
+    <string name="acercadetitulo">Acerca de nosotros</string>
+    <string name="acercadedescripcion">El creador de esta aplicacion Yordan Miguel, busca la ampliacion del conocimiento cultural de los bellos pueblos que contiene Colombia</string>
+    <string name="verhoteles">Hoteles</string>
+    <string name="verrestaurantes">Restaurantes</string>
+    <string name="versitios">Sitios turisticos</string>
+
+
+    <string name="menuopcion1">Ingles</string>
+    <string name="menuopcion2">Español</string>
+    <string name="menuopcion3">Italiano</string>
+    <string name="menuopcion4">Reseña</string>
+    <string name="menuopcion5">Acerca de</string>
+
+
+</resources>

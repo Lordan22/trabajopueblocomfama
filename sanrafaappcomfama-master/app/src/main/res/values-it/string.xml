@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hotel a SanRafa</string>
+    <string name="descripcionhomehoteles">Nel nostro paese troverai alloggi che vanno da 35000 COP a lussuose cabine dotate di tutti gli elementi per promuovere un riposo rigenerante. Visita.</string>
+    <string name="historiapueblo">Storia del paese</string>
+    <string name="textohistoria">Il comune di San Rafael è stato fondato il 5 agosto 1864 da minatori provenienti dalle regioni di Paisa di Santa Rosa de Osos e San Carlos, attratti dall</string>
+    <string name="botonhomehoteles">Vedi Hotel</string>
+    <string name="titulorestaurantes">I Nostri Ristoranti</string>
+    <string name="descripcionrestaurantes">A San Rafael abbiamo numerosi ristoranti che ravvivano</string>
+    <string name="sitiostit">Siti Turistici</string>
+    <string name="sitiosdesc">A San Rafael abbiamo meraviglie paradisiache: torrenti, cascate e altri luoghi con una bellezza smeraldo.</string>
+    <string name="acercadetitulo">Chi Siamo</string>
+    <string name="acercadedescripcion">Il creatore di questa applicazione, Yordan Miguel, cerca di ampliare la conoscenza culturale dei bellissimi paesi che la Colombia contiene.</string>
+    <string name="verhoteles">Hotel</string>
+    <string name="verrestaurantes">Ristoranti</string>
+    <string name="versitios">Siti Turistici</string>
+
+    <string name="menuopcion1">Inglese</string>
+    <string name="menuopcion2">Spagnolo</string>
+    <string name="menuopcion3">Italiano</string>
+    <string name="menuopcion4">Recensione</string>
+    <string name="menuopcion5">Informazioni</string>
+</resources>
+
+

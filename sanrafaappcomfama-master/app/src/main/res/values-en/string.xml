@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SanRafa</string>
+    <string name="titulohomehoteles">Hotels in SanRafa</string>
+    <string name="descripcionhomehoteles">In our town, you will find accommodations ranging from 35000 COP to luxurious cabins equipped with all the elements to promote a restorative rest. Visit us.</string>
+    <string name="historiapueblo">Town History</string>
+    <string name="textohistoria">The municipality of San Rafael was founded on August 5, 1864, by miners coming from the Paisa regions of Santa Rosa de Osos and San Carlos attracted by the abundance of gold in the area. The nascent population was first known as La Cuchilla.</string>
+    <string name="botonhomehoteles">See Hotels</string>
+    <string name="titulorestaurantes">Our Restaurants</string>
+    <string name="descripcionrestaurantes">In San Rafael, we have numerous restaurants that revive the essence of the local gastronomy, offering several dishes that will delight your palate.</string>
+    <string name="sitiostit">Tourist Sites</string>
+    <string name="sitiosdesc">In San Rafael, we have paradisiacal wonders: streams, waterfalls, and other sites with emerald beauty.</string>
+    <string name="acercadetitulo">About Us</string>
+    <string name="acercadedescripcion">The creator of this application, Yordan Miguel, seeks to expand the cultural knowledge of the beautiful towns that Colombia contains.</string>
+    <string name="verhoteles">Hotels</string>
+    <string name="verrestaurantes">Restaurants</string>
+    <string name="versitios">Tourist Sites</string>
+
+    <string name="menuopcion1">English</string>
+    <string name="menuopcion2">Spanish</string>
+    <string name="menuopcion3">Italian</string>
+    <string name="menuopcion4">Review</string>
+    <string name="menuopcion5">About</string>
+</resources>
+
