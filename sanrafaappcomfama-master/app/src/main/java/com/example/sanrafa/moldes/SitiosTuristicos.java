@@ -2,24 +2,24 @@ package com.example.sanrafa.moldes;
 
 import java.io.Serializable;
 
-public class Hotel implements Serializable {
+public class SitiosTuristicos implements Serializable {
 
     private String nombre;
     private String telefono;
     private String direccion;
-    private String precio;
+
     private Integer calificacion;
 
-    private Integer foto;
+    private static Integer foto;
 
-    public Hotel() {
+    public SitiosTuristicos() {
     }
 
-    public Hotel(String nombre, String telefono, String direccion, String precio, Integer calificacion, Integer foto) {
+    public SitiosTuristicos(String nombre, String telefono, String direccion, Integer calificacion) {
         this.nombre = nombre;
         this.telefono = telefono;
         this.direccion = direccion;
-        this.precio = precio;
+
         this.calificacion = calificacion;
         this.foto = foto;
     }
@@ -48,13 +48,6 @@ public class Hotel implements Serializable {
         this.direccion = direccion;
     }
 
-    public String getPrecio() {
-        return precio;
-    }
-
-    public void setPrecio(String precio) {
-        this.precio = precio;
-    }
 
     public Integer getCalificacion() {
         return calificacion;
@@ -64,7 +57,7 @@ public class Hotel implements Serializable {
         this.calificacion = calificacion;
     }
 
-    public Integer getFoto() {
+    public static Integer getFoto() {
         return foto;
     }
 
@@ -73,6 +66,7 @@ public class Hotel implements Serializable {
     }
 
 
-
+    public int getPrecio() {
+        return 0;
+    }
 }
-

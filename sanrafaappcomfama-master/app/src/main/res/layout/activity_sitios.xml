@@ -46,5 +46,20 @@
         app:layout_constraintVertical_bias="0.1"
         android:fontFamily="sans-serif-black"
         />
+    <Button
+        android:id="@+id/botonsitios"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/sitiosdescripcion"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.5"
+        app:layout_constraintHorizontal_bias="0.5"
+        android:backgroundTint="@color/pink"
+        android:text="@string/botonsit"
+        android:textColor="@color/blue"
+
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

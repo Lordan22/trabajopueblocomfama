@@ -14,6 +14,8 @@
     <string name="verhoteles">Hotels</string>
     <string name="verrestaurantes">Restaurants</string>
     <string name="versitios">Tourist Sites</string>
+    <string name="botonres">More restaurantes</string>
+    <string name="botonsit">More sites</string>
 
     <string name="menuopcion1">English</string>
     <string name="menuopcion2">Spanish</string>

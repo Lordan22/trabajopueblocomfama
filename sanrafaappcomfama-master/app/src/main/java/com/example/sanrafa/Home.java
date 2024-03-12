@@ -18,6 +18,7 @@ public class Home extends AppCompatActivity {
     //ATRIBUTOS PARA REFERENCIAS ELEMENTOS GRAFICOS
     //QUE TENGO YO EN EL XML QUE QUIERO CONTROLAR EN JAVA
     Button botonHoteles;
+
     Button botonRestaurantes;
     Button botonSitios;
 
