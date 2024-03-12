@@ -33,7 +33,7 @@ public class ListaHoteles extends AppCompatActivity {
     }
 
     public void crearListaHoteles(){
-        listaHoteles.add(new Hotel("hoteles el mocho","3225962363","calle 100","500 usd",69,R.drawable.imagenhotel1));
+        listaHoteles.add(new Hotel("hoteles el mocho","3225962363","calle 100","500 usd",69 ,R.drawable.imagenhotel1));
         listaHoteles.add(new Hotel("hoteles donde alicia","2548898","calle 234 ","250 usd",5,R.drawable.imagenhotel2));
         listaHoteles.add(new Hotel("hoteles aguapanelicos","3225962363","calle 152","750 usd",0,R.drawable.imagenhotel3));
         listaHoteles.add(new Hotel("hoteles la damon","2548898","calle 263 ","999 usd",2,R.drawable.imagenhotel7));
